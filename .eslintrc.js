@@ -12,5 +12,6 @@ module.exports = {
   "globals": {
     "document": 1,
     "window": 1
-  }
+  },
+  "parser": "babel-eslint"
 };
